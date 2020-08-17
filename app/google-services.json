@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "309211138029",
+    "firebase_url": "https://deliveryonline-56e0a.firebaseio.com",
+    "project_id": "deliveryonline-56e0a",
+    "storage_bucket": "deliveryonline-56e0a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:309211138029:android:48c3b1f97ba5f765d249e4",
+        "android_client_info": {
+          "package_name": "com.son.deliveryonline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "309211138029-pbifrg548ac87f8j3lvd7s6tuh6mstdk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.son.deliveryonline",
+            "certificate_hash": "6c4c2412b7998587a2721350c9b6c461ac9811c1"
+          }
+        },
+        {
+          "client_id": "309211138029-44tbfdoc3g3d90c5dehpibvh3n4f8n5v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfgWhkez0Mmob4DQ4Syi3dkfz9FaVb1tE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "309211138029-44tbfdoc3g3d90c5dehpibvh3n4f8n5v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
